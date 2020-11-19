@@ -1,0 +1,2 @@
+# amazonreviewss
+My final project is analyzing how reviews affect sales. Based on my data 2⁄3 people find that reviews are just as powerful as taking advice from a friend. Review Rating Values: Number of reviews, rating of review 1-5 Custom Values: how recent is the review, review and photo Review Column Values: Number of reviews, type of review Custom Values: Positive or negative Review Judge Values: ranking for review, credibility of review Custom Values: Importance of review and how much business it brings in
